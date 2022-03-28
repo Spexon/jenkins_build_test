@@ -2,4 +2,4 @@
 
 This repo is to test the automated building for Jenkins.
 
-Test 6
+Test 7
