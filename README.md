@@ -2,4 +2,4 @@
 
 This repo is to test the automated building for Jenkins.
 
-Test 10
+Test 11 using payload URL with remote builds trigger enabled.
